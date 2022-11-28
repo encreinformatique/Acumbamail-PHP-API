@@ -28,7 +28,7 @@ jobs:
           tools: phpunit:${{ matrix.phpunit-versions }}
 
       - name: Install Dependencies
-        run: composer install --no-interaction --no-suggest --prefer-dist
+        run: composer install --no-interaction --prefer-dist
 
       - name: Process the tests
         run: composer test
