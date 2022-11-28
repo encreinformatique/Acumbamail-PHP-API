@@ -2,6 +2,7 @@
 
 namespace EncreInformatique\AcumbamailApi;
 
+use PHPUnit\Framework\TestCase;
 use EncreInformatique\AcumbamailApi\Acumbamail;
 
 class AcumbamailTest extends TestCase

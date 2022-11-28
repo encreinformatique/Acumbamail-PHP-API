@@ -29,5 +29,8 @@
     "psr-4": {
       "EncreInformatique\\AcumbamailApi\\Tests\\": "tests/"
     }
+  },
+  "scripts": {
+    "test": "vendor/bin/phpunit"
   }
 }
