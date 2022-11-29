@@ -1,5 +1,7 @@
 Acumbamail PHP API
 ==================
+[![Downloads](https://img.shields.io/packagist/dt/encreinformatique/acumbamail-php.svg)](https://packagist.org/packages/encreinformatique/acumbamail-php)
+
 
 **PHP API implementing all methods from Acumbamail API**
 
